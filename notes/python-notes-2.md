@@ -7,7 +7,6 @@ cafe = 199
 
 if cafe > 200 :
   print('fazer cafe')
-
 ```
 
 ## Estrutura `if`
@@ -29,4 +28,19 @@ if condição :
   # código se for verdade
 else :
   # código se for falso
+```
+
+## Estrutura `elif`
+
+O `elif` serve para melhorarmos nossa estrutura de código quando temos um `else` com um `if` dentro.
+
+> `elif` = `else` + `if`
+
+```py
+if nota >= 7.0 :
+  print('aprovado')
+elif nota >= 4.0 :
+  print('recuperacao')
+else:
+  print('reprovado')
 ```
