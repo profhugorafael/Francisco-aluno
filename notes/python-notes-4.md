@@ -24,3 +24,5 @@ while estoque != 0 :
 2. verificação
 3. atualização
 ```
+
+# Estrutura `for`
