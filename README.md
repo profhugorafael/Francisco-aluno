@@ -1,6 +1,3 @@
-# Francisco-aluno
-Aulas de Programação e Robótica.
-
 # Lista de exercícios
 
 ## Problema 1 (🐍`python`)
