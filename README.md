@@ -23,7 +23,7 @@ O seu programa deve apresentar uma sequencia começando pelo `inicio`, terminand
 |Inicio: 45 <br> Termino: 22 <br> Passo: 3|45 <br> 42 <br> 39 <br> 36 <br> 33 <br> 30 <br> 27 <br> 24 |
 
 ⚠️ **Observação:** O valor do passo deve ser interpretado pelo próprio programa, se será uma sequência crescente ou decrescente.
-
+ 
 discussão
 ```
 fim - começo menor que zero
