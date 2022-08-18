@@ -9,6 +9,7 @@ int main() { // main = principal
 
   int a = 2;
   int b = 3;
+  
   printf("ola\n");
   printf("primeiro valor digitado = %d\n", a);
   printf("segundo valor digitado = %d\n", b);
