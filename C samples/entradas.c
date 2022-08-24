@@ -17,9 +17,9 @@ int main() {
 
   double media = (nota1 + nota2)/2;
 
-  printf("Media Final = %lf", media );
+  printf("Media Final = %.1lf\n", media );
 
-  if (media >= 7.0) {
+  if ( media >= 7.0 ) {
     puts("Aprovado");
   } else if ( media >= 4.0 ) {
     puts("recuperacao");
