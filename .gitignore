@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 # executable files
-.exe
+beecrowd C/test.exe
