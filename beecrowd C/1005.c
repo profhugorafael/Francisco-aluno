@@ -10,5 +10,6 @@
 
     printf("MEDIA = %.5lf\n", numerador / denominador );
 
-    return 0
+    return 0;
+    
  }
